@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import "https://1.www.s81c.com/common/carbon/web-components/version/v2.0.1/data-table.min.js";
-import "https://1.www.s81c.com/common/carbon/web-components/version/v2.0.1/pagination.min.js";
 
 const ParliamentMembersTable = () => {
   const [members, setMembers] = useState([]);
